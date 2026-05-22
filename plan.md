@@ -1,4 +1,4 @@
-1. Planning
+# 1. Planning
 ## Key Features 
 1. Automate job searching for software engineering 
 graduate roles.
@@ -11,9 +11,9 @@ user can access tha descriptions.
 prompt user for finalise edit. 
 
 
-2. Analysis 
-3. Design 
-4. Implementation
-5. Testing
-6. Deployment 
-7. Maintenance 
+# 2. Analysis 
+# 3. Design 
+# 4. Implementation
+# 5. Testing
+# 6. Deployment 
+# 7. Maintenance 
